@@ -1,0 +1,8 @@
+name: ZManHunt
+version: '${project.version}'
+main: fun.zcraft.sgk.zmanhunt.zmanhunt.ZManHunt
+api-version: 1.16
+depend: ['Multiverse-Core']
+softdepend: ['Vault']
+authors: [ SoulGateKey, ZcraftStudio ]
+description: A ManHunt plugin played like Dream can autospawn temp world for player 
